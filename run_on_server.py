@@ -34,7 +34,7 @@ def price_boxplot(price, whis=3):
 
 
 def input_row_data():
-    df = pd.read_csv(os.path.abspath('..')+'\\data\\cleaned_data.csv')
+    df = pd.read_csv('data.csv')
     data = df[['rents', 'response', 'age', 'mile', 'displacement', 'extra_fee', 'seats', 'gps', 'mp3', 'f2f', 'steer',
                'recommendation', 'automatic_order', 'driving_experience', 'out_of_town', 'weekday',
                'city_beijing', 'city_guangzhou', 'gender_female', 'gender_male', 'area_asia', 'area_china',
