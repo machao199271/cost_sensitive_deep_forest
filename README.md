@@ -3,7 +3,7 @@
 
 This is the official clone for the implementation of [Cost-sensitive deep forest for price prediction](https://github.com/machao199271/machao199271.github.io/raw/master/Cost-sensitive%20deep%20forest%20for%20price%20prediction.pdf)[1]. The implementation is flexible enough for modifying the model or fit your own datasets.
 
-Reference: [1] Chao Ma, Zhenbing Liu, Zhiguang Cao, Wen Song, Jie Zhang, Weiliang Zeng. Cost-sensitive Deep Forest for Price Prediction.[J] .Pattern Recognition.
+Reference: [1] Chao Ma, Zhenbing Liu, Zhiguang Cao, Wen Song, Jie Zhang, Weiliang Zeng. Cost-Sensitive Deep Forest for Price Prediction. Pattern Recognition, vol. 107, 2020.
 
 ## Files description
 
